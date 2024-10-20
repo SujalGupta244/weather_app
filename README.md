@@ -1,4 +1,4 @@
-# Rule Engine
+# Weather App
 
 After downloading the repository in local setup
 
