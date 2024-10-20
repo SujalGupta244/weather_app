@@ -2,7 +2,7 @@
 
 After downloading the repository in local setup
 
-## Copy the .env file from email inside the weather_api folder
+## Copy the .env file from email inside the weather_app folder
 
 ## Inside Folder run
 ```
